@@ -11,7 +11,8 @@ weight = 3
 
 # Submission
 To give a presentation at the workshop, submit an extended abstract (between 2 to 5 pages} via Easychair:
-      TBA
+
+https://easychair.org/conferences/?conf=hor2019
 
 [HOR] is a platform for discussing open questions, ongoing research, and new perspectives, as well as new results. Extended abstracts describing work in progress, preliminary results, research projects, or problems in higher-order rewriting are very welcome.
 

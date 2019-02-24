@@ -27,12 +27,12 @@ weight = 1
 affiliated i fscd na bude link-->
 # <center>**HOR 2019**</center>
 ## <center>**10th International Workshop on**</center>
-## <center>**Higher-Order Rewritting**</center>
-## <center>**Dortmund**</center>
+## <center>**Higher-Order Rewriting**</center>
+## <center>**Dortmund, Germany**</center>
 ## <center>**28 June 2019**</center>
-## <center>**affiliated with [FSCD2019]**</center>
+## <center>**affiliated with [FSCD 2019]**</center>
 
-[FSCD2019]:http://easyconferences.eu/fscd2019/
+[FSCD 2019]:http://easyconferences.eu/fscd2019/
 <!-- [Dr. Jorge A. Pérez]:http://www.jorgeaperez.net
 [Prof. Gerard Renardel de Lavalette]:http://www.rug.nl/staff/g.r.renardel.de.lavalette/
 [Prof. Silvia Ghilezan]:http://imft.ftn.uns.ac.rs/~silvia/ -->
