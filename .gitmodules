@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:hor2019/hor2019.github.io.git
-	branch = master

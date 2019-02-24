@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Hor"
+title = "HOR 2019"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -256,9 +256,14 @@ defaultContentLanguageInSubdir = false
 
 
 [[menu.main]]
+    name = "Invited Speakers"
+    url = "#invitedspeakes"
+    weight = 3
+
+[[menu.main]]
   name = "Important Dates"
   url = "#dates"
-  weight = 3
+  weight = 4
 
 
 #[[menu.main]]
@@ -267,9 +272,9 @@ defaultContentLanguageInSubdir = false
 #  weight = 5
 
 [[menu.main]]
-  name = "Program Committee"
+  name = "Committees"
   url = "#committee"
-  weight = 4
+  weight = 5
 
 
 # Taxonomies.
