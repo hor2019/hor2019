@@ -15,7 +15,7 @@ weight = 6
 - [Silvia Ghilezan]&nbsp; (Chair) &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  University of Novi Sad, Serbia
 - [Masahito Hasegawa] &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; Kyoto University, Japan
 - [Cynthia Kop] &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Radboud University, The Netherlands
-- [Pierre Lescanne] &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;Ecole Normale Supérieure de Lyon, France
+- [Pierre Lescanne] &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;École Normale Supérieure de Lyon, France
 
 ## Steering Committee
 - [Delia Kesner] &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
