@@ -49,10 +49,6 @@ defaultContentLanguageInSubdir = false
   #   Choose from `default`, `classic`, or `playfair`.
   font = "default"
 
-  # Your details.
-#  name = "Alen Arslanagić"
-#  role = "PhD student in Computer Science"
-
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   #organizations = [ {name = "Johann Bernouilli Institute", url = "http://www.rug.nl/research/jbi/"},
@@ -256,15 +252,19 @@ defaultContentLanguageInSubdir = false
 
 
 [[menu.main]]
+  name = "Important Dates"
+  url = "#dates"
+  weight = 3
+
+[[menu.main]]
     name = "Invited Speakers"
     url = "#invitedspeakes"
     weight = 4
 
 [[menu.main]]
-  name = "Important Dates"
-  url = "#dates"
-  weight = 3
-
+    name = "Registration"
+    url = "#registration"
+    weight = 5
 
 #[[menu.main]]
 #  name = "Teaching"
@@ -274,7 +274,7 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Committees"
   url = "#committee"
-  weight = 5
+  weight = 6
 
 
 # Taxonomies.
