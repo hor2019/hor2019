@@ -261,20 +261,29 @@ defaultContentLanguageInSubdir = false
     url = "#invitedspeakes"
     weight = 4
 
+
+[[menu.main]]
+    name = "Preceedings"
+    url = "#precedings"
+    weight = 5
+
+
+[[menu.main]]
+    name = "Programme"
+    url = "#programme"
+    weight = 6
+
+
 [[menu.main]]
     name = "Registration"
     url = "#registration"
-    weight = 5
+    weight = 7
 
-#[[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
 
 [[menu.main]]
   name = "Committees"
   url = "#committee"
-  weight = 6
+  weight = 8
 
 
 # Taxonomies.
