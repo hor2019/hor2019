@@ -10,6 +10,6 @@ weight = 5
 
 +++
 
-# Preceedings 
+# Proceedings 
 **Joint HOR + IWC + CoCo Proceedings** can be found 
 [here](/proc-HOR-IWC-CoCo.pdf). 
